@@ -6,6 +6,7 @@
     },
     "routes": [
         { "src": "/",  "dest": "/api/hello-world.php" },
+        { "src": "/hello",  "dest": "/api/hello-world.php" },
         { "src": "/phpinfo",  "dest": "/api/phpinfo.php" }
     ]
 }
