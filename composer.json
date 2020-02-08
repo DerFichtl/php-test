@@ -1,0 +1,14 @@
+{
+    "name": "derfichtl/php-test",
+    "description": "A repro for testing cloud deployments with PHP.",
+    "authors": [
+        {
+            "name": "DerFichtl",
+            "email": "github@michael-feichtinger.at"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "rivsen/hello-world": ">=0.1"
+    }
+}
